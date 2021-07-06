@@ -1,0 +1,29 @@
+body{
+    background: #e74c4c;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.color{
+    margin-top: 300px;
+    text-align: center;
+}
+#hex{
+    display: block;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.color button{
+    background: none;
+    outline: none;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 5px 10px;
+}
+
+
